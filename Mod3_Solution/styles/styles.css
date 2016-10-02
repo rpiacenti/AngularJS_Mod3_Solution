@@ -8,7 +8,15 @@ input[type="text"] {
 .narrow-button {
   float: left;
   margin-left: 10px;
+  padding-left: 10px;
 }
+
+.directive {
+  position: absolute;
+    left: 200px;
+    top: 130px;
+}
+
 .loader {
   display: none;
   margin-left: 5px;
